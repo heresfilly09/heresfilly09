@@ -19,9 +19,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra.dev/api?username=heresfilly09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.anuraghazra.dev/api?username=heresfilly09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
   <br><br>
-  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=heresfilly09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=heresfilly09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
 </div>
 
 <br>
